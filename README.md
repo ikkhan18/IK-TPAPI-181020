@@ -10,7 +10,7 @@ The calendar spans a workday from 8AM to 6PM. The current date is displayed at t
 ### Automatic Reloading of page on the new hour
 The page is set to reload on each new hour. Prior to reloading the page, a confirm asks the user if it is okay to reload. This is done in order to prevent unexpected loss of data. If the user confirms, the page reloads displaying the correct colors for each time block and resets the timer to load the page in an hour. If the user denies the reload, they must reload the page to restart this functionality. 
 
-![image of alert message for save](Assets/message.png)
+![image of alert message for save](Assets/message.PNG)
 
 ### Event Saving and review
 When the user inputs a new event into an hour time block on the planner, user can save the event into local storage by clicking the blue save button to the right of the event.  
